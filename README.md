@@ -1,33 +1,33 @@
 # Netflix Data Analysis Project
 
-## This project explores the Netflix Movies and TV Shows Dataset using Python.
+### This project explores the Netflix Movies and TV Shows Dataset using Python.
 
 ## Objectives
 
-. Clean and preprocess the dataset
+ Clean and preprocess the dataset
 
-. Analyze patterns and trends
+ Analyze patterns and trends
 
-. Visualize content distribution
+ Visualize content distribution
 
-. Extract business insights
+ Extract business insights
 
 ## Tools Used
 
-. Python
+ Python
 
-. Pandas
+ Pandas
 
-. Matplotlib
+ Matplotlib
 
-. Seaborn
+ Seaborn
 
 ## Key Findings
 
-. Movies dominate the platform
+ Movies dominate the platform
 
-. USA & India produce most content
+ USA & India produce most content
 
-. Content increased dramatically after 2015
+ Content increased dramatically after 2015
 
-. Drama and comedy are most common genres
+ Drama and comedy are most common genres
